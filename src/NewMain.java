@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Daw1
+ * @author Christian
  */
 public class NewMain {
 
@@ -14,6 +14,8 @@ public class NewMain {
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
         System.out.println("Escribe un número");
+        System.out.println("Holaaa");
+        
     }
     
 }
