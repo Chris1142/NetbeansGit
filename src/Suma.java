@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Daw1
+ * @author Christian
  */
 public class Suma {
     public static void main(String[] args) {
